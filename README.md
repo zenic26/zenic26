@@ -1,5 +1,7 @@
 ## Hi there 👋
-<img width="1243" height="508" alt="image" src="https://github.com/user-attachments/assets/d609b970-9c99-4eff-857e-3c5b123beaaa" />
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenic26&layout=compact&theme=dark)
 
 <!--
 **zenic26/zenic26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenic26&layout=compact&theme=dark)
 
 
 
