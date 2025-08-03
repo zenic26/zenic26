@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="1243" height="508" alt="image" src="https://github.com/user-attachments/assets/d609b970-9c99-4eff-857e-3c5b123beaaa" />
 
 <!--
 **zenic26/zenic26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
