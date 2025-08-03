@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📊 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenic26&layout=compact&theme=dark)
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
-
-![Saambhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenic26&show_icons=true&theme=github_dark)
 
 
 -->
